@@ -1,7 +1,10 @@
     Analysis in Power Bi
 ![image](https://github.com/user-attachments/assets/0e3932df-f7eb-4ac6-b672-fffc25e53ae7)
-![image](https://github.com/user-attachments/assets/0be4389b-b1fe-4230-bddb-916c6c1c94ef)
-![image](https://github.com/user-attachments/assets/42f5561b-0e91-4013-9001-65cb91498335)
-![image](https://github.com/user-attachments/assets/64bb0e0a-a3b1-4899-8cb1-46a72c147c10)
+![image](https://github.com/user-attachments/assets/bb61a206-0841-4836-9fcd-18f1116aa2a8)
+
+![image](https://github.com/user-attachments/assets/ff71a83d-dabc-4e5c-90f7-7bbe79ad2e9a)
+
+![image](https://github.com/user-attachments/assets/cd7fa0c6-2a19-4287-8266-f3c45a365069)
+
 
 
